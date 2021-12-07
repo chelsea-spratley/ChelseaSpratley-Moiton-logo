@@ -41,18 +41,15 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 0
     },
-    "\/design\/logo-png.png" : {
-      "ft" : 32768,
-      "iS" : 55045,
-      "oA" : 0,
-      "oAP" : "\/design\/logo-png.png",
+    "\/design\/logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/logo.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/dev\/content\/head.kit" : {
       "cB" : 0,
@@ -60,6 +57,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/content\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/logo.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/logo.html",
       "oF" : 0
     },
     "\/dev\/content\/scripts.kit" : {
@@ -259,6 +264,22 @@
       "oA" : 2,
       "oAP" : "\/node_modules",
       "oF" : 0
+    },
+    "\/package-lock.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-lock-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
+    },
+    "\/package.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-min.json",
+      "oF" : 0,
+      "oO" : 1,
+      "oS" : 1
     }
   },
   "hooks" : [
