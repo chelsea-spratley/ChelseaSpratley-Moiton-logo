@@ -7,7 +7,7 @@
       "uuidString" : "DD99397F-19A4-4976-A68E-BC37566E6344"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/deploy\/css\/styles-min.css" : {
       "aP" : 1,
@@ -57,6 +57,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/content\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/logo.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/logo.html",
       "oF" : 0
     },
     "\/dev\/content\/logo.kit" : {
@@ -1440,6 +1448,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
